@@ -1,2 +1,2 @@
 # Data-Projects-Portfolio
-This is my data portfolio where I upload several projects embaked on from datasets analyzed
+This is my Data Portfolio where I upload my Projects from analyzed datasets which cuts across diverse industries and sectors
